@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ssm.
+- 🌱 I’m currently learning SSM and VUE.
 - 🔭 Preparing for XCPC.
 
 <!--
