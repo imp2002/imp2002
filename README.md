@@ -28,7 +28,7 @@ $ nohup life > blog.nohup.life &
   
 - Master's Candidate In Progress 2024 - 2027
 
-<img src="https://wakatime.com/badge/user/70400143-077f-46cf-9ac2-ac211b28f700.svg" title="Total Code Time Since 2021.3.30"/>
+[<img src="https://wakatime.com/badge/user/70400143-077f-46cf-9ac2-ac211b28f700.svg" title="Total Code Time Since 2021.3.30"/>](https://wakatime.com/share/@imp2002/205976b6-e11c-436e-894b-d68a6eaeddf9.svg)
 
 
 <details><summary>CodeTime Since 2021.3</summary>
