@@ -13,6 +13,7 @@
 <br>
 
 ```sh
+~
 $ nohup life > blog.nohup.life &
 ```
 ---
